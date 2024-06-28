@@ -1,5 +1,7 @@
 # FlexibleBQR_GAH: Flexible Bayesian Quantile Regression based on the Generalized Asymmetric Huberised-type Distribution
 
+Hu, W., Zhang, W. Flexible Bayesian quantile regression based on the generalized asymmetric Huberised-type distribution. Stat Comput 34, 144 (2024). [https://doi.org/10.1007/s11222-024-10453-1](https://doi.org/10.1007/s11222-024-10453-1)
+
 This package implements Bayesian quantile regression based on the generalized asymmetric Huberised-type distribution.
 
 Functions are implemented in *GAH_functions.R*.
